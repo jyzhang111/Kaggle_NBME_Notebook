@@ -1,0 +1,60 @@
+Run on 29/04/2022 17:39:37. LR = 2.5e-05, Epochs = 10
+           Approx. train loss   Val loss       
+Epoch 1    1.801870             1.789341
+      Epoch 2    1.128480             1.122582
+      Epoch 3    2.562380             2.558842
+      Epoch 4    1.339843             1.340648
+      Epoch 5    3.558432             3.565170
+      
+Validation loss stopped decreasing compared to weighted average of last three epochs, stopping.
+Run on 30/04/2022 10:01:49. LR = 5e-05, Epochs = 8
+           Approx. train loss   Val loss       
+Epoch 1    1.122427             1.122391
+      Run on 30/04/2022 18:09:30. LR = 1e-05, Epochs = 9
+           Approx. train loss  
+Epoch 1    0.951833            
+Epoch 2    0.616270            
+Epoch 3    0.555842            
+Run on 30/04/2022 18:20:21. LR = 1e-05, Epochs = 9
+           Approx. train loss  
+Epoch 1    1.194221            
+Epoch 2    0.768727            
+Epoch 3    0.668891            
+Run on 30/04/2022 18:35:06. LR = 1e-05, Epochs = 9
+           Approx. train loss  
+Epoch 1    1.286206            
+Epoch 2    0.699191            
+Epoch 3    0.613745            
+Epoch 4    0.633543            
+Epoch 5    0.601341            
+Epoch 6    0.603297            
+Epoch 7    0.625704            
+Epoch 8    0.333964            
+Epoch 9    0.606950            
+Run on 30/04/2022 19:17:42. LR = 1e-05, Epochs = 9
+           Approx. train loss  
+Epoch 1    1.272352            
+Epoch 2    0.769491            
+Epoch 3    0.670955            
+Run on 30/04/2022 19:43:29. LR = 1e-05, Epochs = 9
+           Approx. train loss  
+Epoch 1    1.425880            
+Epoch 2    0.921991            
+Epoch 3    0.823896            
+Epoch 4    0.772136            
+Epoch 5    0.833804            
+Epoch 6    0.888861            
+Epoch 7    0.748642            
+Epoch 8    0.830270            
+Epoch 9    0.976688            
+Run on 30/04/2022 21:21:18. LR = 1e-05, Epochs = 9
+           Approx. train loss  
+Run on 30/04/2022 21:39:22. LR = 1.5e-05, Epochs = 9
+           Approx. train loss  
+Run on 30/04/2022 21:53:56. LR = 1.6e-05, Epochs = 9
+           Approx. train loss  
+Epoch 1    2.193709            
+Epoch 2    1.424401            
+Epoch 3    0.740885            
+Epoch 4    2.948118            
+Epoch 5    2.483501            

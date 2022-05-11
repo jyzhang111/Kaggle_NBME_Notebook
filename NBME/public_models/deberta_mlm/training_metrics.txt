@@ -1,0 +1,7 @@
+Run on 01/05/2022 22:31:19. LR = 5e-05, Epochs = 1
+           Approx. train loss  
+Epoch 1    0.229027            
+Run on 02/05/2022 04:19:56. LR = 5e-05, Epochs = 2
+           Approx. train loss  
+Epoch 1    0.228298            
+Epoch 2    0.203597            
