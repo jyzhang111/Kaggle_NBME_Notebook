@@ -1,1 +1,1 @@
-Directory for models/folds, optimizer states, and training metrics
+Skeleton directory for saving models/folds, optimizer states, and training metrics.
